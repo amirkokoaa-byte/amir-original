@@ -1,0 +1,6 @@
+{
+  "name": "Python Video Downloader GUI",
+  "description": "A Python customtkinter application utilizing yt-dlp to download videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
